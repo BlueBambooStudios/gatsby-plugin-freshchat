@@ -1,6 +1,6 @@
-import React from 'react';
+const React = require('react')
 
-export const onRenderBody = (
+module.exports.onRenderBody = (
   { setHeadComponents, setPostBodyComponents },
   pluginOptions
 ) => {
