@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-freshchat",
   "description": "Gatsby plugin to add Freshchat to your site",
-  "version": "1.0.0",
+  "version": "1.0.0-rc1",
   "author": "Blue Bamboo Studios <hello@bluebamboostudios.com> (https://bluebamboostudios.com)",
   "bugs": {
     "url": "https://github.com/BlueBambooStudios/gatsby-plugin-freshchat/issues"
